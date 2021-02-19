@@ -1,4 +1,4 @@
----
+"google.com","216.58.213.110","US","United States","CA","California","Mountain View","94043","37.404300","-122.074800","Google","Google"---
 title: '{% data variables.product.product_name %}{% if currentVersion == "free-pro-team@latest" %}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
